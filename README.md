@@ -1,4 +1,8 @@
-	/appveyor/tests/:mhfed/:repo/:branch
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
   
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +26,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <img width='50px' src="https://scontent.fhan5-11.fna.fbcdn.net/v/t1.6435-9/121016251_345680463550317_3876061129398178912_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=THP-MltCVc0AX8MCsCv&_nc_ht=scontent.fhan5-11.fna&oh=00_AT9UUHmBkzp-psEsDP0Cj0dItkBk14L-v_Ff-XUUJaIumw&oe=627E5689">
-| Left columns  | Right columns |
+|
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhfed&theme=tokyonight&show_icons=true)
 - 👋 Hi, I’m @mhfed
 - 👀 I’m interested in ...
