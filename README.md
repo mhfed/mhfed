@@ -22,8 +22,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhfed&theme=tokyonight&show_icons=true)
-
- <img width='30%' src="https://scontent.fhan5-11.fna.fbcdn.net/v/t1.6435-9/121016251_345680463550317_3876061129398178912_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=THP-MltCVc0AX8MCsCv&_nc_ht=scontent.fhan5-11.fna&oh=00_AT9UUHmBkzp-psEsDP0Cj0dItkBk14L-v_Ff-XUUJaIumw&oe=627E5689">
  
 - 👋 Hi, I’m Nguyen Minh Hieu - @mhfed
 - 👀 I’m interested in Web Front-End Developer
