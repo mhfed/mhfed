@@ -39,9 +39,9 @@
           background-size: cover;
           border: 2px solid #000;
           border-radius: 50%;
-          width: 300px;
-          height: 300px;
-          animation: spinAround 7s linear 0s infinite;
+          width: 360px;
+          height: 360px;
+          animation: spinAround 7s linear 0s infinite alternate;
           box-shadow: 0 0 25px RGBA(255,255,255, 0.25),
                     -8px -8px 15px #000 inset,
                     2px 2px 25px #000 inset,
@@ -61,6 +61,7 @@
           animation:  typing 5s forwards;
           margin-left: 70px;
           white-space: nowrap;
+          color: #A828A8;
         }
 				.skills {
           display: inline-flex;
