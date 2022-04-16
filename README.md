@@ -17,15 +17,12 @@
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  | <img width='50%' src="https://scontent.fhan5-11.fna.fbcdn.net/v/t1.6435-9/121016251_345680463550317_3876061129398178912_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=THP-MltCVc0AX8MCsCv&_nc_ht=scontent.fhan5-11.fna&oh=00_AT9UUHmBkzp-psEsDP0Cj0dItkBk14L-v_Ff-XUUJaIumw&oe=627E5689"> |
-| ------------- |:-------------:|
-  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-
-
-|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhfed&theme=tokyonight&show_icons=true)
+
+ <img width='30%' src="https://scontent.fhan5-11.fna.fbcdn.net/v/t1.6435-9/121016251_345680463550317_3876061129398178912_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=THP-MltCVc0AX8MCsCv&_nc_ht=scontent.fhan5-11.fna&oh=00_AT9UUHmBkzp-psEsDP0Cj0dItkBk14L-v_Ff-XUUJaIumw&oe=627E5689">
 - 👋 Hi, I’m @mhfed
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
