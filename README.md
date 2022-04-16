@@ -24,7 +24,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhfed&theme=tokyonight&show_icons=true)
  
 - 👋 Hi, I’m Nguyen Minh Hieu - @mhfed
-- 👀 I’m interested in Web Front-End Developer
+- 👀 I’m Web Front-End Developer
 - 🌱 I’m currently learning at FPT Polytechnic Ha Noi
 - 💞️ I’m looking to collaborate on Linkin
 - 📫 How to reach me : This is my Linkin 
