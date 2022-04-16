@@ -67,9 +67,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://mhfed.com" target="blank">
-    <img width="90" height="90" src="images/logo-mhfed-transparent-bg-192x192.png" alt="mhfed-blog" />
-  </a>
   <a href="https://facebook.com/mhfed" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="mhfed-facebook" />
   </a>
