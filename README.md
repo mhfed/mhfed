@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/mhfed.svg" width="1200" alt="mhfed-official" />
+  <img src="svg/mhfed.svg" width="800" alt="mhfed-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
