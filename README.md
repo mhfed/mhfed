@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="svg/mhfed.svg" alt="Nguyen Minh Hieu - Senior Frontend Architect" width="100%" />
+  <img src="svg/mhfed.svg?v=1" alt="Nguyen Minh Hieu - Senior Frontend Architect" width="100%" />
 </div>
 
 ### 🛠 Tech Stack & Tools
@@ -34,14 +34,14 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhfed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mhfed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhfed&layout=compact&theme=radical&hide_progress=true&retry=1" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mhfed&layout=compact&theme=radical&hide_progress=true&retry=1" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="svg/mhfed-quotes.svg" alt="Minh Hieu Quote" width="100%" />
+  <img src="svg/mhfed-quotes.svg?v=1" alt="Minh Hieu Quote" width="100%" />
 </div>
