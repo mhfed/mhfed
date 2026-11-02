@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Minh Hieu 👋
+# Hi there, I'm Henry Nguyen 👋
 
 I am a **Senior Software Engineer & Architect** based in Hanoi, focusing on high-level architectural decisions, web performance optimization (Core Web Vitals, LCP, TTFB), and building robust developer tools.
 
@@ -46,5 +46,5 @@ I am a **Senior Software Engineer & Architect** based in Hanoi, focusing on high
 
 <p align="center">
   <i>"After a day! We've learned something new? Or become a copy of yesterday?"</i><br>
-  <strong>— Minh Hieu —</strong>
+  <strong>— Henry Nguyen —</strong>
 </p>
