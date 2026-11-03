@@ -28,6 +28,7 @@ I am a **Senior Software Engineer & Architect** based in Hanoi, focusing on high
 </p>
 
 ### 📦 Open Source & Tools Built
+- **`vn-law-check`**: Legal audit of a website under Vietnamese law
 - **`next-query-sync`**: Advanced query synchronization library published on npm.
 - **`safe-rm-hehe`**: A robust, systems-level command-line utility built in Rust and published on crates.io.
 
